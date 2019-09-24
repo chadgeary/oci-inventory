@@ -5,7 +5,6 @@ oci2
 [oci:vars]
 ansible_connection=ssh
 ansible_user=ansible
-ansible_ssh_private_key_file=
 
 [oci1:vars]
 ansible_host=oci1.chadg.net
