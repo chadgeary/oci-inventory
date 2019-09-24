@@ -5,9 +5,3 @@ oci2
 [oci:vars]
 ansible_connection=ssh
 ansible_user=ansible
-
-[oci1:vars]
-ansible_host=oci1.chadg.net
-
-[oci2:vars]
-ansible_host=oci2.chadg.net
