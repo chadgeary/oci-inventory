@@ -4,4 +4,4 @@ oci2
 
 [oci:vars]
 ansible_connection=ssh
-ansible_user=ansible
+ansible_user=centos
